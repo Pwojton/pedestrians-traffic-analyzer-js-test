@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+video {
+    width: 70%;
+    height:70%;
+}
